@@ -77,6 +77,9 @@ body{
         transition: all .3s;
     }
 }
+.sp-br{
+    display: none;
+}
 .main{
     background-image: url(../images/circle.svg);
     background-position: top -50px right -80px;
@@ -526,6 +529,12 @@ input[type="submit"]{
             width: 300px;
             margin: 0 auto;
         }
+    }
+    .pc-br{
+        display: none;
+    }
+    .sp-br{
+        display: inline;
     }
     .feature{
         &-box{
