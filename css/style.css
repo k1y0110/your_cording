@@ -213,13 +213,12 @@ body {
   margin: 0 auto 40px;
 }
 .price table th {
-  width: 30%;
+  width: 31%;
   padding: 30px;
-  min-width: 300px;
   border: 1px solid #f0eded;
 }
 .price table td {
-  width: 70%;
+  width: 69%;
   -moz-text-align-last: left;
        text-align-last: left;
   padding: 30px;
@@ -404,7 +403,7 @@ body {
           box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
 }
 .contact-form input[type=text], .contact-form input[type=email] {
-  width: 500px;
+  width: 100%;
 }
 .contact-form textarea {
   height: 180px;

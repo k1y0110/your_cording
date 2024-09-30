@@ -177,13 +177,12 @@ body{
         padding: 0 20px;
         margin: 0 auto 40px;
         th{
-            width: 30%;
+            width: 31%;
             padding: 30px;
-            min-width: 300px;
             border: 1px solid #f0eded;
         }
         td{
-            width: 70%;
+            width: 69%;
             text-align-last: left;
             padding: 30px;
             border: 1px solid #f0eded;
@@ -360,7 +359,7 @@ body{
         background-color: #ffffff;
         box-shadow: 0 3px 6px rgba(0,0,0,.16);
         input[type="text"], input[type="email"]{
-            width: 500px;
+            width: 100%;
         }
         textarea{
             height: 180px;
@@ -560,4 +559,3 @@ input[type="submit"]{
         }
     }
 }
-
